@@ -1,3 +1,4 @@
+
 # Linux Monitoring
 
 This is a Linux monitoring setup using Grafana, Prometheus, And Node Exporter.
@@ -22,7 +23,7 @@ http://localhost:3000
 
 ### Noted 🚨🚧⚠️
 - Username and Password for Grafana:\
-  username: <code>admin</code>
+  username: <code>admin</code> \
   password: <code>admin</code>
 - if you want to stop this monitoring setup, please run:
 
