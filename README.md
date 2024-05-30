@@ -7,7 +7,7 @@ This is a Linux monitoring setup using Grafana, Prometheus, And Node Exporter.
 - You must have <code>Docker Egine With Docker Compose Plugin</code> installed in your machine.
 
 ## Get Started!!!
-- For get started, you must <code>cd</code> to folder <code>monitor</code> and run command as below.
+- For get started, you must <code>cd</code> to folder <code>Linux-Monitoring_Grafana_Prometheus_And_Node-Exporter</code> and run command as below.
 
 ```bash
 sudo docker compose up -d
